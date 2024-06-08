@@ -37,7 +37,7 @@ body {
 }
 
 .photo#spotted-deer {
-    background-image: url('path_to_spotted_deer_image');
+    background-image: url('deer.jpg');
 }
 
 .photo:hover {
