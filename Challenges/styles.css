@@ -25,15 +25,15 @@ body {
 }
 
 .photo#fennec-fox {
-    background-image: url('path_to_fennec_fox_image');
+    background-image: url('fox.jpg');
 }
 
 .photo#humpback-whale {
-    background-image: url('path_to_humpback_whale_image');
+    background-image: url('whale.jpg');
 }
 
 .photo#common-brown-baboon {
-    background-image: url('path_to_baboon_image');
+    background-image: url('baboon.jpg');
 }
 
 .photo#spotted-deer {
