@@ -20,7 +20,6 @@ function hasSubarrayWithSum(arr, target) {
       currentSum -= arr[start];
       start++;
     }
-
     // Check if the currentSum is equal to the target
     if (currentSum === target) {
       return true;
